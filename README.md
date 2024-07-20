@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EMMANUEL-MORA
-- 👀 I’m interested in Architecture and Real Estate
+- 👀 I’m interested in Architecture and Data science
 - 🌱 I’m currently learning Data Scientist
 - 💞️ I’m looking to collaborate on Real Estate projects
 - 📫 How to reach me mappp.de
